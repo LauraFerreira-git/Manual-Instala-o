@@ -14,7 +14,6 @@
 
   - Imagem ISO: (coloque o arquivo que deseja instalar no caso Puppy.iso); 
 
-![alt text](imagem-1-1.png)
 
 
 5 - Na próxima página você irá acrescentar informações sobre o seu computador;
@@ -23,6 +22,7 @@
   - Caso você não saiba a memória interna do seu dispositivo é recomendado que confira nas configurações do mesmo;
 
 
+<img src="E:\virtualbox_ma\README.md\imagem-1.png">
 
 
 6 - No tamanho de disco você coloca um pouco a menos do seu computador. Caso não saiba acesse as configurações;
