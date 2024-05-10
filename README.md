@@ -14,8 +14,7 @@
 
   - Imagem ISO: (coloque o arquivo que deseja instalar no caso Puppy.iso); 
 
-![alt text](imagem-1.png)
-
+![alt text](imagem-1-1.png)
 
 
 5 - Na próxima página você irá acrescentar informações sobre o seu computador;
