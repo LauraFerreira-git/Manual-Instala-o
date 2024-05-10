@@ -14,7 +14,7 @@
 
   - Imagem ISO: (coloque o arquivo que deseja instalar no caso Puppy.iso); 
 
-![alt text](image-1.png)
+![alt text](imagem-1.png)
 
 
 
@@ -23,17 +23,16 @@
   - Memória Base: (coloque um pouco menos da memória desoculpada do computado.); 
   - Caso você não saiba a memória interna do seu dispositivo é recomendado que confira nas configurações do mesmo;
 
-![alt text](image-2.png)
+
 
 
 6 - No tamanho de disco você coloca um pouco a menos do seu computador. Caso não saiba acesse as configurações;
 
-![alt text](image-3.png)
+
 
 7 - No sumário você confere se há algo para alterar, é a sua última chance! 
 Clique em finalizar;
 
-![alt text](image-4.png)
 
 
 8 - Ao iniciar a máquina clique no ENTER
